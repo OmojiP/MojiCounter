@@ -1,0 +1,10 @@
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\bin\Debug\MojiCounter.exe.config
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\bin\Debug\MojiCounter.exe
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\bin\Debug\MojiCounter.pdb
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\obj\Debug\MojiCounter.csproj.AssemblyReference.cache
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\obj\Debug\MojiCounter.Properties.Resources.resources
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\obj\Debug\MojiCounter.csproj.GenerateResource.cache
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\obj\Debug\MojiCounter.csproj.CoreCompileInputs.cache
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\obj\Debug\MojiCounter.exe
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\obj\Debug\MojiCounter.pdb
+C:\Users\kodai\Desktop\sources\windows form app\MojiCounter\MojiCounter\obj\Debug\MojiCounter.就活生の味方.resources
