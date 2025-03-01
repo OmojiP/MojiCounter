@@ -3,18 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\kodai\\Desktop\\src\\MojiCounter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7548FB7-CFA1-47FD-9E86-1A3F4BFAEF9A}|MojiCounter\\MojiCounter.csproj|C:\\Users\\kodai\\Desktop\\src\\MojiCounter\\mojicounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7548FB7-CFA1-47FD-9E86-1A3F4BFAEF9A}|MojiCounter\\MojiCounter.csproj|c:\\users\\kodai\\desktop\\src\\mojicounter\\mojicounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7548FB7-CFA1-47FD-9E86-1A3F4BFAEF9A}|MojiCounter\\MojiCounter.csproj|solutionrelative:mojicounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7548FB7-CFA1-47FD-9E86-1A3F4BFAEF9A}|MojiCounter\\MojiCounter.csproj|c:\\users\\kodai\\desktop\\src\\mojicounter\\mojicounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A7548FB7-CFA1-47FD-9E86-1A3F4BFAEF9A}|MojiCounter\\MojiCounter.csproj|C:\\Users\\kodai\\Desktop\\src\\MojiCounter\\mojicounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A7548FB7-CFA1-47FD-9E86-1A3F4BFAEF9A}|MojiCounter\\MojiCounter.csproj|solutionrelative:mojicounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MojiCounter||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7548FB7-CFA1-47FD-9E86-1A3F4BFAEF9A}|MojiCounter\\MojiCounter.csproj|c:\\users\\kodai\\desktop\\src\\mojicounter\\mojicounter\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,9 +29,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\kodai\\Desktop\\src\\MojiCounter\\MojiCounter\\Form1.cs",
               "RelativeDocumentMoniker": "MojiCounter\\Form1.cs",
-              "ToolTip": "C:\\Users\\kodai\\Desktop\\src\\MojiCounter\\MojiCounter\\Form1.cs",
-              "RelativeToolTip": "MojiCounter\\Form1.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAewE0AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kodai\\Desktop\\src\\MojiCounter\\MojiCounter\\Form1.cs*",
+              "RelativeToolTip": "MojiCounter\\Form1.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAewB8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T12:37:23.432Z",
               "IsPinned": true,
@@ -49,8 +46,7 @@
               "ToolTip": "C:\\Users\\kodai\\Desktop\\src\\MojiCounter\\MojiCounter\\MojiCounter.csproj",
               "RelativeToolTip": "MojiCounter\\MojiCounter.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-01T14:53:41.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T14:53:41.965Z"
             },
             {
               "$type": "Document",
@@ -61,8 +57,7 @@
               "ToolTip": "C:\\Users\\kodai\\Desktop\\src\\MojiCounter\\MojiCounter\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "MojiCounter\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T12:30:16.207Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+              "WhenOpened": "2024-12-04T12:30:16.207Z"
             }
           ]
         }
