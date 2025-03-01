@@ -29,6 +29,7 @@ namespace MojiCounter
             // 空白と改行を除いた長さを計算
             int lengthWithoutSpacesAndNewlines = s.Replace(" ", "") // 空白を除去
                                                   .Replace("\n", "") // 改行を除去
+                                                  .Replace("\r", "") // 改行を除去
                                                   .Length;
 
             // 絵文字を1文字としてカウント
