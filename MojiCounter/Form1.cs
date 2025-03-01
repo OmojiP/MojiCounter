@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace MojiCounter
 {
@@ -65,6 +66,20 @@ namespace MojiCounter
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void 就活生の味方_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Paste_Click(object sender, EventArgs e)
+        {
+            // クリップボードにテキストがある場合のみ貼り付ける
+            if (Clipboard.ContainsText())
+            {
+                counterBox.Text = Clipboard.GetText();
+            }
         }
     }
 }
